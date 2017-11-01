@@ -61,7 +61,7 @@
                     <li><i class="fa fa-map-marker"></i> 
                         Bengaluru Karnataka India</li>
                     <li><i class="fa fa-at"></i> <a href="mailto:contact@yaana.net.in">contact@yaana.net.in</a></li>           
-                    <li><i class="fa fa-phone"></i> +91 095906 69510</li>
+<!--                    <li><i class="fa fa-phone"></i> +91 095906 69510</li>-->
                 </ul>
                  <ul class="footer-socials">
                     

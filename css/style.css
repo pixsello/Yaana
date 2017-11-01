@@ -112,10 +112,10 @@ nav {
 .item button{
     background-color: #ff6600;
     border: none;
-    padding: 10px 25px;
+    padding: 10px 15px;
     margin-top: 30px;
     font-family: 'GothamRoundedMedium';
-    font-size: 16px;
+    font-size: 14px;
 }
 .carousel-control {
     background-image: none !important;
@@ -156,6 +156,52 @@ nav {
 .navbar-nav{
     padding: 12px 0px;
 }
+.content{
+    text-align: center;
+    box-shadow: 0 0 35px #dddddd;
+    text-align: center;
+    margin: 0 5px 30px;
+    padding: 20px 15px 15px 15px;;
+    height: 270px;
+}
+.text-s{
+    font-size: 16px !important;
+}
+.content h4{
+    padding: 10px 0px;
+}
+.content i{
+    font-size: 30px;
+}
+.content:hover{
+    background-color: #efeff100;
+}
+.section1{
+    padding-bottom: 0px !important;
+}
+.content img{
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 50px;
+}
+.single-hiw-feature i img{
+    display: block;
+    margin: auto;
+    margin-top: 16px;
+}
+/*
+.content h4:before{
+    content: '';
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    position: absolute;
+    bottom: 230px;
+    left: calc(50% - 30px);
+}
+*/
+
 /*inner-pages*/
 .yaana-background{
     padding-bottom: 0px !important;
@@ -272,7 +318,7 @@ nav {
      }
 .yana-text{
     color: #cacaca;
-    text-align: center;
+    
     margin-top: 10px;
 }
 .quick-links{
@@ -588,7 +634,7 @@ h3.quick{
         padding: 15px 5px;
     }
     .navbar-nav li a{
-        font-size: 8px;
+        font-size: 12px;
     }
     
     
@@ -608,9 +654,7 @@ h3.quick{
     .navbar-nav {
      padding: 0px; 
     }
-    .navbar-nav li a{
-        font-size: 9px;
-    }
+    
     
     .height{
         height: 170px;

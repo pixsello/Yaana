@@ -67,7 +67,7 @@
                                 <p>Tyres,brakes and other damages.</p>
                             </div>
                             <div class="single-hiw-feature"> 
-                                <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                                <i><img src="images/helmet-icon.png" class="img-responsive"></i>
                                 <h4>Wear helmet. It will keep you safe.</h4>
                                 <br>
                             </div>

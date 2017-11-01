@@ -57,7 +57,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li <?php if($page == 'index.php') { ?> class="active"<?php } ?> ><a href="index.php">Home</a></li>
                         <li <?php if($page == 'about.php') { ?> class="active"<?php } ?> ><a href="about.php">About Us</a></li>
-                        <li <?php if($page == 'how-it-works.php') { ?> class="active"<?php } ?> ><a href="how-it-works.php">How It Works </a></li>
+<!--                        <li <?php if($page == 'how-it-works.php') { ?> class="active"<?php } ?> ><a href="how-it-works.php">How It Works </a></li>-->
                         <li <?php if($page == 'campus-and-cities.php') { ?> class="active"<?php } ?> ><a href="campus-and-cities.php">Campus and cities</a></li>
                         <li <?php if($page == 'safety.php') { ?> class="active"<?php } ?> ><a href="safety.php">Safety</a></li>
                         <li <?php if($page == 'contact-us.php') { ?> class="active"<?php } ?> ><a href="contact-us.php">Contact Us</a></li>
