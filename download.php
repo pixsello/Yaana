@@ -51,7 +51,7 @@
                     <div class="col-md-12"> 
                         <div class="section-title"> 
                             <h2>Download The App</h2>
-                            <p>YAANA is a bike sharing service that can be used for first and last mile urban commute.<br> With our innovative IOT technology, you can pick a bicycle, get wherever you are <br>going, park at any nearby designated parking station and carry on with your life. </p>
+                            <p>YAANA is a bicycle sharing service that can be used for first and last mile urban commute.<br> With our innovative IOT technology, you can pick a bicycle, get wherever you are <br>going, park at any nearby designated parking station and carry on with your life. </p>
                         </div>
                     </div><!-- END COL -->
                 </div><!-- END ROW -->

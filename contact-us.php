@@ -51,7 +51,7 @@
                     <div class="col-md-12"> 
                         <div class="section-title"> 
                             <h2>Get in Touch</h2>
-                            <p>Request YAANA Bikes near your home, office, school or anywhere in your area!</p>
+                            
                         </div>
                     </div><!-- END COL -->
                 </div><!-- END ROW -->
@@ -59,7 +59,7 @@
                 <div class="row"> 
                     <div class="col-sm-8 col-md-8"> 
                         <div class="contact-form"> 
-                            <form id="contactform" method="POST" action="http://schuylergrillandcafe.com/beta/contact_form.php" name="myform" novalidate="">
+                            <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/email/contact-form.php" name="myform" novalidate="">
                                 <div class="row"> 
                                     <div class="col-md-6"> 
                                         <div class="form-group">
@@ -102,19 +102,21 @@
                                 <li> 
                                     <i class="icofont icofont-social-google-map"></i>
                                     <h3>Office Address:</h3>
-                                    <p>Bengaluru Karnataka Inida</p>
+                                    <p>Bengaluru Karnataka India</p>
                                 </li>
                                 <li> 
                                     <i class="icofont icofont-envelope"></i>
                                     <h3>E-mail Address:</h3>
                                     
-                                    <p><a href="mailto:care@yaana.net.in">care@yaana.net.in</a></p>
+                                    <p><a href="mailto:contact@yaana.net.in">contact@yaana.net.in</a></p>
                                 </li>
+<!--
                                 <li> 
                                     <i class="icofont icofont-phone"></i>
                                     <h3>Phone Number:</h3>
                                     <p>+91 9036432100</p>
                                 </li>
+-->
                             </ul>
                         </div>
                     </div><!-- END COL -->

@@ -41,8 +41,8 @@
                 <div class="carousel-caption">
                     <h1>bicycle for rent</h1>
                     <h3>  Unlock Happiness!!!!</h3>
-                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 30 minutes.</p>
-                    <a href="download.php"><button class="bicycle">Book Now</button></a>  
+                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 1 hour.</p>
+                    <button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button>  
                 </div>
             </div>
             <div class="item">
@@ -50,8 +50,8 @@
                 <div class="carousel-caption">
                     <h1>bicycle for rent</h1>
                     <h3>  Unlock Happiness!!!!</h3>
-                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 30 minutes.</p>
-                    <a href="download.php"><button class="bicycle">Book Now</button></a>   
+                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 1 hour.</p>
+                    <button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button>   
                 </div>
             </div>
 <!--
@@ -60,7 +60,7 @@
                  <div class="carousel-caption">
                     <h1>bicycle for rent</h1>
                     <h3>  Unlock Happiness!!!!</h3>
-                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 30 minutes.</p>
+                     <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 1 hour.</p>
                     <a href="download.php"><button class="bicycle">Book Now</button></a>  
                 </div>
             </div>
@@ -77,9 +77,9 @@
                     <div class="col-md-12"> 
                         <div class="section-title angle-section-title"> 
                             <h2>Welcome To Yaana Bikes</h2>
-                            <p>Imagine a world where you can beat the city's bustling traffic and go wherever you need to.</p><br>
-                            <p>Yaana is a bike sharing service that can be used for first and last mile urban commute. With our innovative IOT technology, you can pick a bicycle, get wherever you are going, park at any nearby designated parking station and carry on with your life.</p><br>
-                            <button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button>
+                            <p>Imagine a world where you can beat the city's bustling traffic and go wherever you need to.</p>
+                            <p>Yaana is a bicycle sharing service that can be used for first and last mile urban commute. With our innovative IOT technology, you can pick a bicycle, get wherever you are going, park at any nearby designated parking station and carry on with your life.</p><br>
+<!--                            <button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button>-->
                             
                         </div>
                     </div><!-- END COL -->
@@ -110,7 +110,7 @@
                             <div class="single-hiw-feature"> 
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                 <h4>Locate</h4>
-                                <p>Open the app and find YAANA bikes near to you.</p>
+                                <p>Open the app and find YAANA bicycle near to you.</p>
                             </div>
                             
                             <div class="single-hiw-feature"> 

@@ -67,7 +67,7 @@
                             <div class="single-hiw-feature"> 
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                 <h4>Locate</h4>
-                                <p>Open the app and find YAANA bikes near to you.</p>
+                                <p>Open the app and find YAANA bicycles near to you.</p>
                             </div>
                             
                             <div class="single-hiw-feature"> 

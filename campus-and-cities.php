@@ -61,19 +61,23 @@
                         <div class="single-price-package"> 
                             <div class="price-header">
                                 <h3>Yaana Corporate Network</h3>
+<!--
                                 <h4 class="price-value">
                                     <sup class="text-bottom"><i class="fa fa-inr"></i></sup>
                                     <span class="text-large">10</span>
                                     <span class="duration">/30 min</span>
                                 </h4>
+-->
                             </div>
                             <div class="height">
                             <p>Yaana will be a part of Business parks and other corporate offices making it easier for all employees to enjoy a decongested and eco-friendly work environment.</p>
 
                             
+<!--
                             <div class="price-footer">
                                 <a href="#!" class="purchase-btn">Downolad</a>
                             </div>
+-->
                             </div>
                         </div><!-- END SINGLE PRICE PACKAGE -->
                     </div><!-- END COL -->
@@ -84,19 +88,23 @@
                         <div class="single-price-package"> 
                             <div class="price-header">
                                 <h3>Yaana College campus network</h3>
+<!--
                                 <h4 class="price-value">
                                     <sup><i class="fa fa-inr"></i></sup>
                                     <span class="text-large">10</span>
                                     <span class="duration">/30 min</span>
                                 </h4>
+-->
                             </div>
                             <div class="height">
-                            <p>We partner with various colleges across the city to make bikes available to all students at reasonable prices making it easy to attend those early morning lectures and visit the canteens in the middle of the night.</p>
+                            <p>We partner with various colleges across the city to make bicycles available to all students at reasonable prices making it easy to attend those early morning lectures and visit the canteens in the middle of the night.</p>
                             <p>All Cycles are GPS-enabled with no carbon footprint making Yaana a secure and eco-friendly way to commute and reduce campus traffic. </p>
                             
+<!--
                             <div class="price-footer">
                                 <a href="#!" class="purchase-btn">Downolad</a>
                             </div>
+-->
                             </div>
                         </div><!-- END SINGLE PRICE PACKAGE -->
                     </div><!-- END COL -->
@@ -107,7 +115,7 @@
                     <div class="staement">
                         <p>Request YAANA Bikes near your home, office, school or anywhere in your area!</p>
                     </div>
-                    <div class="col-sm-8 col-md-8"> 
+                    <div class="col-sm-12 col-md-12"> 
                         <div class="contact-form"> 
                             <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/contact-form.php" name="myform" novalidate="">
                                 <div class="row"> 
@@ -158,28 +166,7 @@
                         </div>
                     </div><!-- END COL -->
                     
-                    <div class="col-sm-4 col-md-4"> 
-                        <div class="contact-info">
-                            <ul> 
-                                <li> 
-                                    <i class="icofont icofont-social-google-map"></i>
-                                    <h3>Office Address:</h3>
-                                    <p>Bengaluru Karnataka Inida</p>
-                                </li>
-                                <li> 
-                                    <i class="icofont icofont-envelope"></i>
-                                    <h3>E-mail Address:</h3>
-                                    
-                                    <p><a href="mailto:care@yaana.net.in">care@yaana.net.in</a></p>
-                                </li>
-                                <li> 
-                                    <i class="icofont icofont-phone"></i>
-                                    <h3>Phone Number:</h3>
-                                    <p>+91 9036432100</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div><!-- END COL -->
+                    
                 </div><!-- END ROW -->
                 
                 

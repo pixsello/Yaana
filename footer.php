@@ -3,16 +3,19 @@
     <div class="container">
         <div class="row">
         <div class="col-md-9 col-sm-8 col-xs-12 footer-form">
-            <div class="col-md-6 col-sm-6 col-xs-12 pad">
-                <div class="form-group">
-                    <input type="text" placeholder="E-mail address" class="form-control" required>
+            <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/email/subscribe.php" name="myform" novalidate=""  onSubmit="alert('Thank you...! We appreciate your enquiry. Soon we will reach you out.')">
+                <div class="col-md-6 col-sm-6 col-xs-12 pad">
+                    <div class="form-group">
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Email Address*" required="">
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12 pad">
-                <div class="form-group">
-                    <input type="submit"  value="SUBSCRIBE" class="subsrcibe">
+                <div class="col-md-4 col-sm-4 col-xs-12 pad">
+                    <div class="submit-sub">
+                        <button type="submit" class="btn"> SUBSCRIBE  </button>
+                    </div>
+                    
                 </div>
-            </div>
+            </form>
         </div>
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="social-networks">
@@ -29,7 +32,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-3 col-xs-12 footer-col1">
                 <img src="images/yaana-footer-logo.png" class="img-responsive">
-                <p class="yana-text">Yana is a bike sharing services that can be used for first and last mile urban commute.with our innovative IOT technology,you can pick a bicycle,get wherever you are going,park at any nearby designated parking station and carry on with your life.</p>
+                <p class="yana-text">Yana is a bicycle sharing services that can be used for first and last mile urban commute.with our innovative IOT technology,you can pick a bicycle,get wherever you are going,park at any nearby designated parking station and carry on with your life.</p>
             </div>
             <div class="col-md-5 col-sm-5 col-xs-12">
                     <h3 class="quick">Quick links</h3>
@@ -54,23 +57,15 @@
             </div>
             <div class="col-md-4 col-sm-4 col-xs-12">
                  <h3 class="quick">Contact</h3>
-                <div class="col-md-1 col-xs-1 foot-loc">
-                <img src="images/loc-5.png">
-                </div>
-                <div class="col-md-11 col-xs-11 address">
-                    <p>936, SCK complex, 2nd floor, Channasandra, 
-                        Kengeri main road, Rajarajeshwari Nagar,
-                         Bengaluru, Karnataka 560098</p>
-                </div>
-                            
-              
-                 <ul class="footer-socials">
-                    <li><i class="fa fa-at"></i></li>
-                    <li><a href="mailto:care@yaana.net.in">care@yaana.net.in</a></li>
+                <ul class="footer-socials">
+                    <li><i class="fa fa-map-marker"></i> 
+                        Bengaluru Karnataka India</li>
+                    <li><i class="fa fa-at"></i> <a href="mailto:contact@yaana.net.in">contact@yaana.net.in</a></li>           
+                    <li><i class="fa fa-phone"></i> +91 095906 69510</li>
                 </ul>
                  <ul class="footer-socials">
-                    <li><i class="fa fa-phone"></i></li>
-                    <li><p>+91 095906 69510</p></li>
+                    
+                    <li></li>
                 </ul>
             </div>
             </div>
@@ -82,6 +77,7 @@
 
 <a href="#0" class="cd-top">Top</a>
 </html>
+
 
 <!--        back to top-->
         <script src="back-to-top/js/modernizr.js"></script> <!-- Modernizr -->
@@ -104,3 +100,4 @@
   })();
 
 </script>
+

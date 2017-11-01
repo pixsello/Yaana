@@ -49,11 +49,12 @@
             <div class="container"> 
                 <div class="row"> 
                     <div class="col-md-12"> 
-                        <div class="section-title angle-section-title"> 
-                            <h2>About Our App</h2>
-                            <p>Imagine a world where you can beat the city's bustling traffic and go wherever you need to.</p>
-                            <p>YAANA is a bike sharing service that can be used for first and last mile urban commute. With our innovative IOT technology, you can pick a bicycle, get wherever you are going, park at any nearby designated parking station and carry on with your life. </p>
+                        <div class="section-title angle-section-title">
+                            <div class="about-text">
+<!--                            <h2>About Our App</h2>-->
+                            
                             <p>Yaana is not just another Tech Startup. We believe in making our cities eco-friendly and less congested. With Yaana, we are committed to building a community where people and relationships come first and your commute is no more a burden. For us, Yaana is the future of first and last mile urban commute where our cities smile back at us. </p>
+                            </div>
                         </div>
                     </div><!-- END COL -->
                 </div><!-- END ROW -->
@@ -68,10 +69,12 @@
                             
                            
                             
+<!--
                             <a href="#!" class="default-button">
                                 <i class="icofont icofont-download-alt"></i> 
                                 Download Now
                             </a>
+-->
                         </div>
                     </div><!-- END COL -->
                     

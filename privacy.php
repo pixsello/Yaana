@@ -84,7 +84,7 @@
                                 <p> <i class="fa fa-angle-double-right"></i> When you provide us with personal information to start using YAANA bikes, verify your credit card, we imply that you consent to our collecting it and using it for that specific reason only.</p><p><i class="fa fa-angle-double-right"></i> 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.</p>
                                 <p>How do I withdraw my consent?</p>
-                                <p><i class="fa fa-angle-double-right"></i> If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at <a href="mailto:care@yaana.net.in"> care@yaana.net.in</a></p>
+                                <p><i class="fa fa-angle-double-right"></i> If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at <a href="mailto:contact@yaana.net.in"> contact@yaana.net.in</a></p>
                                 
                             </div>
                         </div>
@@ -192,7 +192,7 @@ Links</p>
                                 <div class="c-heading">
                                     <h3>QUESTIONS AND CONTACT INFORMATION</h3>
                                 </div>
-                                <p> <i class="fa fa-angle-double-right"></i> If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at <a href="mailto:care@yaana.net.in">care@yaana.net.in</a></p>
+                                <p> <i class="fa fa-angle-double-right"></i> If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at <a href="mailto:contact@yaana.net.in">contact@yaana.net.in</a></p>
                             </div>
                         </div>
                     </div><!-- End sections-->

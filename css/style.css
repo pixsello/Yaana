@@ -112,10 +112,10 @@ nav {
 .item button{
     background-color: #ff6600;
     border: none;
-    padding: 5px 25px;
+    padding: 10px 25px;
     margin-top: 30px;
     font-family: 'GothamRoundedMedium';
-    font-size: 22px;
+    font-size: 16px;
 }
 .carousel-control {
     background-image: none !important;
@@ -167,6 +167,10 @@ nav {
     #how-it-works.inner-page::before{
         background: none !important;
     }
+.about-text p{
+    
+    margin-bottom: 20px !important;
+}
 
 .inner-page-app::after{
     height: 69% !important;
@@ -185,8 +189,8 @@ nav {
     font-size: 14px;
 }
 .height{
-    height: 250px;
-     padding: 30px 10px;
+    height: 150px;
+    padding: 0px 10px 10px 10px;
 }
 .contact-info p a{
     color: #111;
@@ -209,18 +213,8 @@ nav {
 .footer-form .form-control{
     border-radius: 0px !important;
 }
-.subsrcibe:hover {
-    color: #fff;
-    box-shadow: 0 0 10px #f8492b;
-    transition: all 0.3s ease-in-out;
-}
-.subsrcibe{
-    padding: 8px 30px;
-    margin-left: 20px;
-    background: #ff6600;
-    border: none;
-    color: #fff;
-}
+
+
 .social-networks{
     text-align: center;
 }
@@ -300,6 +294,21 @@ h3.quick{
     line-height: 1.8;
     font-family: 'GothamRoundedLight';
 }
+.submit-sub button{
+    background-color: #ff6600;
+    border: none;
+    color: #fff;
+    border-radius: 0px !important;
+    padding: 8px 30px;
+   margin-left: 20px;
+    font-family: 'GothamRoundedMedium';
+    
+}
+.submit-sub button:hover {
+    color: #fff;
+    box-shadow: 0 0 10px #f8492b;
+    transition: all 0.3s ease-in-out;
+}
 .links{
     margin-left: 10px;
 }
@@ -309,7 +318,10 @@ h3.quick{
 .footer-socials li{
         list-style-type: none;
      display: inline-block;
-     font-size: 16px;
+     font-size: 15px;
+    color: #959595;
+    font-family: 'GothamRoundedLight';
+    padding: 10px 0px;
    
     }
 .footer-socials a{
@@ -601,7 +613,7 @@ h3.quick{
     }
     
     .height{
-        height: 290px;
+        height: 170px;
     }
 }
 

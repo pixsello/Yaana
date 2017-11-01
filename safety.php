@@ -66,7 +66,11 @@
                                 <h4>Check for Bicycles before starting</h4>
                                 <p>Tyres,brakes and other damages.</p>
                             </div>
-                            
+                            <div class="single-hiw-feature"> 
+                                <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                                <h4>Wear helmet. It will keep you safe.</h4>
+                                <br>
+                            </div>
                             <div class="single-hiw-feature"> 
                                 <i class="fa fa-road" aria-hidden="true"></i>
                                 <h4>Give way to pedestrians</h4>

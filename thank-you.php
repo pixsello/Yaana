@@ -57,8 +57,8 @@
                 
                 <div class="row"> 
                    <div id="cspio-description">
-                    <p>We appreciate your enquiry. Soon we will reach you out.</p>
-                    <p>At Yaana, we provide sustainable solutions for better future. Innovation each day,<br> looking for solution that will benefit Environment, Economic and Community at large. </p>
+                    <p> We appreciate your enquiry. Soon we will reach you out.</p>
+                    <p>At Yaana, we provide sustainable solutions for better future that will benefit Environment and Community at large. </p>
                     </div> 
                     
                     
