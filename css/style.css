@@ -100,6 +100,7 @@ nav {
     color: #fff;
     font-family: 'Italianno', cursive;
     font-size: 40px;
+    font-weight: 100;
 }
 .carousel-caption{
     left: 15%;
@@ -178,6 +179,7 @@ nav {
 }
 .section1{
     padding-bottom: 0px !important;
+   
 }
 .content img{
     display: block;
@@ -189,6 +191,26 @@ nav {
     display: block;
     margin: auto;
     margin-top: 16px;
+}
+.email-sub input{
+    width: 95%;
+    padding: 8px;
+}
+
+.submit-sub input{
+    background-color: #ff6600;
+    border: none;
+    color: #fff;
+    border-radius: 0px !important;
+    padding: 10px 30px;
+   
+    font-family: 'GothamRoundedMedium';
+    
+}
+.submit-sub input:hover {
+    color: #fff;
+    box-shadow: 0 0 10px #f8492b;
+    transition: all 0.3s ease-in-out;
 }
 /*
 .content h4:before{
@@ -311,6 +333,7 @@ nav {
 .footer-col1 img{
     padding-left: 32px;
     padding-bottom: 5px;
+    padding-top: 65px;
 }
 
 .dotted {
@@ -340,21 +363,7 @@ h3.quick{
     line-height: 1.8;
     font-family: 'GothamRoundedLight';
 }
-.submit-sub button{
-    background-color: #ff6600;
-    border: none;
-    color: #fff;
-    border-radius: 0px !important;
-    padding: 8px 30px;
-   margin-left: 20px;
-    font-family: 'GothamRoundedMedium';
-    
-}
-.submit-sub button:hover {
-    color: #fff;
-    box-shadow: 0 0 10px #f8492b;
-    transition: all 0.3s ease-in-out;
-}
+
 .links{
     margin-left: 10px;
 }
@@ -537,6 +546,33 @@ h3.quick{
 }
 /* ** */
 @media only screen and (max-width: 767px) and (min-width: 320px) {
+/*
+    .content{
+        height: auto;
+    }
+*/
+    .footer-col1 img{
+        padding-top: 0PX;
+        padding-left: 0PX;
+    }
+    .social-networks{
+        text-align: justify;
+        padding-top: 20px;
+    }
+    
+    .content h4{
+        font-size: 14px;
+        padding: 0px;
+    }
+    .submit-sub{
+        margin-top: 20px;
+    }
+    .section1 .col-xs-6{
+        padding: 0px;
+    }
+    .content p{
+        font-size: 12px;
+    }
     .carousel-caption{
         left: 18%;  
     }
@@ -544,10 +580,10 @@ h3.quick{
         height: auto !important;
     }
     .item button {
-    padding: 4px 18px;
+    padding: 4px 8px;
     margin-top: 0px;
-    font-size: 12px;
-}
+    font-size: 8px;
+    }
     .carousel-caption h1{
         font-size: 14px;
     }
@@ -584,7 +620,7 @@ h3.quick{
         top: -10px;
     }
     .pricing-section{
-        padding-top: 50px !important;
+        padding-top: 0px !important;
     }
     section{
         padding-bottom: 0px !important;

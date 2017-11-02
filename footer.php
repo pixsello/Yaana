@@ -3,19 +3,25 @@
     <div class="container">
         <div class="row">
         <div class="col-md-9 col-sm-8 col-xs-12 footer-form">
-            <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/email/subscribe.php" name="myform" novalidate=""  onSubmit="alert('Thank you...! We appreciate your enquiry. Soon we will reach you out.')">
+            <form id="contactform" action="http://online.pixsello.in/yaana/email/subscribe.php" name="myform"  onSubmit="alert('Thank you...! We appreciate your enquiry. Soon we will reach you out.')">
                 <div class="col-md-6 col-sm-6 col-xs-12 pad">
-                    <div class="form-group">
-                        <input type="email" class="form-control" id="email" name="email" placeholder="Email Address*" required="">
+                    <div class="email-sub">
+                        <input type="email" name="email" placeholder="Email Address*" required>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12 pad">
                     <div class="submit-sub">
-                        <button type="submit" class="btn"> SUBSCRIBE  </button>
+                        <input type="submit" value="SUBSCRIBE">
                     </div>
                     
                 </div>
             </form>
+<!--
+            <form id="contactform" action="#" name="myform"  onSubmit="alert('Thank you...! We appreciate your enquiry. Soon we will reach you out.')">
+                <input type="email" name="email" placeholder="Email Address*" required>
+                <input type="submit" value="SUBSCRIBE">
+            </form>
+-->
         </div>
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="social-networks">
@@ -24,6 +30,7 @@
                             <li><a href="https://www.facebook.com/YAANA-133663214027366/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/yaanabikes" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.instagram.com/yaanabikes/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/yaanabikes?trk=top_nav_home" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                         </ul>
                 </div>
             </div>
@@ -32,7 +39,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-3 col-xs-12 footer-col1">
                 <img src="images/yaana-footer-logo.png" class="img-responsive">
-                <p class="yana-text">Yana is a bicycle sharing services that can be used for first and last mile urban commute.with our innovative IOT technology,you can pick a bicycle,get wherever you are going,park at any nearby designated parking station and carry on with your life.</p>
+<!--                <p class="yana-text">Yana is a bicycle sharing services that can be used for first and last mile urban commute.with our innovative IOT technology,you can pick a bicycle,get wherever you are going,park at any nearby designated parking station and carry on with your life.</p>-->
             </div>
             <div class="col-md-5 col-sm-5 col-xs-12">
                     <h3 class="quick">Quick links</h3>

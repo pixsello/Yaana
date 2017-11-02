@@ -51,7 +51,7 @@
                     <div class="col-md-12"> 
                         <div class="section-title"> 
                             <h2>Campus and cities</h2>
-                            <p>Yaana offers various networks to make bike share easier in all walks of life. College campuses, gated communities(Townships), corporate offices, shopping districts, and other societies around town are all covered by the Yaana network. </p>
+                            <p>Yaana offers various networks to make bicycle share easier in all walks of life. College campuses, gated communities(Townships), corporate offices, shopping districts, and other societies around the town are all covered by Yaana network.</p>
                         </div>
                     </div><!-- END COL -->
                 </div><!-- END ROW -->
@@ -97,8 +97,8 @@
 -->
                             </div>
                             <div class="height">
-                            <p>We partner with various colleges across the city to make bicycles available to all students at reasonable prices making it easy to attend those early morning lectures and visit the canteens in the middle of the night.</p>
-                            <p>All Cycles are GPS-enabled with no carbon footprint making Yaana a secure and eco-friendly way to commute and reduce campus traffic. </p>
+                            <p>We partner with various colleges across the city to make bicycles available to all students at reasonable prices making it easy to attend those early morning lectures and visit canteens in the middle of the night.</p>
+                            <p>All Cycles are GPS-enabled with no carbon footprint, making Yaana a secure and eco-friendly way to commute and reduce campus traffic. </p>
                             
 <!--
                             <div class="price-footer">
@@ -113,7 +113,7 @@
                 
                 <div class="row">
                     <div class="staement">
-                        <p>Request YAANA Bikes near your home, office, school or anywhere in your area!</p>
+                        <p>Request YAANA Bicycle near your home, office, school or anywhere in your area!</p>
                     </div>
                     <div class="col-sm-12 col-md-12"> 
                         <div class="contact-form"> 
@@ -160,7 +160,7 @@
 <!--                                <div id="contact_send_status"></div>-->
                                 
                                 <div class="text-center">
-                                    <button type="submit" class="default-button">Send Message</button>
+                                    <button type="submit" class="default-button">Request YAANA </button>
                                 </div>
                             </form>
                         </div>
