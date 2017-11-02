@@ -60,7 +60,7 @@
                         <div class="hiw-feature-content"> 
                             <div class="single-hiw-feature"> 
                                 <i class="fa fa-download" aria-hidden="true"></i>
-                                <h4>Downolad</h4>
+                                <h4>Download</h4>
                                 <p>Download the YAANA APP</p>
                             </div>
                             

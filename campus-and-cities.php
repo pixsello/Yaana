@@ -133,6 +133,12 @@
                                     </div>
                                     <div class="col-md-6"> 
                                         <div class="form-group">
+                                            <label>Area</label>
+                                            <input type="text" class="form-control" id="area" name="area" placeholder="Your area" required="" data-parsley-minlength="4">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6"> 
+                                        <div class="form-group">
                                             <label>University</label>
                                             <input type="text" class="form-control" id="name" name="name" placeholder="Your University" data-parsley-minlength="4">
                                         </div>

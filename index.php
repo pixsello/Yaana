@@ -42,7 +42,7 @@
                     <h1>bicycle for rent</h1>
                     <h3>  Journey towards change!!!!</h3>
                      <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 1 hour.</p>
-                    <a href="download.php"><button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button></a> 
+                    <a href="launching.php"><button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button></a> 
                 </div>
             </div>
             <div class="item">
@@ -51,7 +51,7 @@
                     <h1>bicycle for rent</h1>
                     <h3>  Journey towards change!!!!</h3>
                      <p>Cycle sharing at just <i class="fa fa-inr" aria-hidden="true"></i> 10 for 1 hour.</p>
-                    <a href="download.php"><button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button></a>  
+                    <a href="launching.php"><button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button></a>  
                 </div>
             </div>
 <!--
@@ -78,7 +78,7 @@
                 <div class="row"> 
                     <div class="col-md-12"> 
                         <div class="section-title angle-section-title"> 
-                            <h2>Welcome To Yaana Bicycle</h2>
+                            <h2>Welcome To Yaana </h2>
                             <p class="text-s">Imagine a world where you can beat the city's bustling traffic and go wherever you need to.
                             Yaana is a bicycle sharing service that can be used for first and last mile urban commute. With our innovative IOT technology, you can pick a bicycle, get wherever you are going, park at any nearby designated parking station and carry on with your life.</p>
 <!--                            <button type="button" class="default-button"><i class="fa fa-download" aria-hidden="true"></i> Download Now</button>-->
@@ -107,7 +107,7 @@
                         <div class="hiw-feature-content"> 
                             <div class="single-hiw-feature"> 
                                 <i class="fa fa-download" aria-hidden="true"></i>
-                                <h4>Downolad</h4>
+                                <h4>Download</h4>
                                 <p>Download the YAANA APP</p>
                             </div>
                             
@@ -167,6 +167,12 @@
                                         <div class="form-group">
                                             <label>City</label>
                                             <input type="text" class="form-control" id="city" name="city" placeholder="Your City*" required="" data-parsley-minlength="4">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6"> 
+                                        <div class="form-group">
+                                            <label>Area</label>
+                                            <input type="text" class="form-control" id="area" name="area" placeholder="Your area" required="" data-parsley-minlength="4">
                                         </div>
                                     </div>
                                     <div class="col-md-6"> 
@@ -236,8 +242,8 @@
                         <div class="col-md-3 col-xs-6">
                             <div class="content">
                                 <img src="images/yaana-mobile--fitness.png" class="img-responsive">
-                                <h4>Mobile Fittness </h4>
-                                <p>Unlock fittness with YAANA.</p><br>
+                                <h4>Mobile Fitness </h4>
+                                <p>Unlock fitness with YAANA.</p><br>
 <!--                                <a href="#!"><button type="button" class="default-button"> Read More</button></a>-->
                             </div>
                         </div>

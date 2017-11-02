@@ -31,12 +31,12 @@
             		<div class="container">
                 		<div class="aboutus">
                     		<div class="title">
-                       			<h2>Download</h2>
+                       			<h2>launching</h2>
                         		<div class="projects">
                       				<ul>
                             			<li><a href="index.php">Home</a></li>
                                 		<li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
-                                		<li>Download</li>
+                                		<li>launching</li>
                         			</ul>
                             	</div><!--projects end-->
                           </div><!--title end-->
@@ -44,47 +44,19 @@
                     </div><!--overlay end-->
                 </div><!--container end-->
             </div>
-        
-        <section id="app-download" class="app-download-section angle-download-section inner-page-app"> 
+        <section id="pricing" class="pricing-section angle-sp"> 
             <div class="container"> 
                 <div class="row"> 
                     <div class="col-md-12"> 
-                        <div class="section-title"> 
-                            <h2>Download The App</h2>
-                            <p>YAANA is a bicycle sharing service that can be used for first and last mile urban commute.<br> With our innovative IOT technology, you can pick a bicycle, get wherever you are <br>going, park at any nearby designated parking station and carry on with your life. </p>
+                        <div class="price-header">
+                             
+                            <h3>We are launching soon! once the application is ready we will activate download link</h3>
                         </div>
-                    </div><!-- END COL -->
-                </div><!-- END ROW -->
-                
-                <div class="row"> 
-                    <div class="col-md-12"> 
-                        <div class="app-download-content">
-                            <!-- START APP STORE -->
-<!--
-                            <a href="#" class="download-btn">
-                                <i class="icofont icofont-brand-apple"></i>
-                                <span>
-                                    available on
-                                    <span class="large-text">App Store</span>
-                                </span>
-                            </a>
--->
-                            <!-- END APP STORE -->
-                            
-                            <!-- START PLAY STORE -->
-                            <a href="launching.php" class="download-btn">
-                                <i class="fa fa-android" aria-hidden="true"></i>
-                                <span>
-                                    available on
-                                    <span class="large-text">Play Store</span>
-                                </span>
-                            </a>
-                            <!-- END PLAY STORE -->
-                        </div>
-                    </div><!-- END COL -->
-                </div><!-- END ROW -->
-            </div><!-- END CONTAINER -->
+                    </div>
+                </div>
+            </div>
         </section>
+        
         
         
         
