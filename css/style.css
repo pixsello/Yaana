@@ -604,7 +604,7 @@ h3.quick{
     }
     .navbar-default{
         position: relative;
-        z-index: 1 !important;
+        
     }
     .yaana-logo img{
         padding-left: 15px;
@@ -620,7 +620,7 @@ h3.quick{
         top: -10px;
     }
     .pricing-section{
-        padding-top: 0px !important;
+       
     }
     section{
         padding-bottom: 0px !important;
