@@ -52,7 +52,7 @@
                     <li><i class="fa fa-angle-double-right"> </i><a href="contact-us.php" class="links">Locations</a></li>
                 </ul>
                 </div>
-                <div class="col-md-6 col-sm-6 pad">
+                <div class="col-md-6 col-sm-6 col-xs-12 pad">
                     <ul class="quick-links">
                         <li><i class="fa fa-angle-double-right"> </i><a href="index.php" class="links">Home</a></li>
                         <li><i class="fa fa-angle-double-right"> </i><a href="how-it-works.php"  class="links">How It Works</a></li>

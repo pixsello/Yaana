@@ -277,7 +277,77 @@
         
        <!-- footer -->
 	<?php include('footer.php'); ?>
-	<!-- footer --> 
+	<!-- footer -->
+        
+        <!-- js --> 
+<!--validation-->
+    
+    <script src="js/jquery.validate.min.js"></script>
+     <script src="js/additional-methods.js"></script>
+<script>
+	
+
+	$().ready(function() {
+		// validate the comment form when it is submitted
+		
+		jQuery.validator.addMethod("lettersonly", function(value, element) {
+  return this.optional(element) || /^[a-zA-Z _]+$/i.test(value);
+}, "Letters only please");
+		
+	// validate signup form on keyup and submit
+		$("#contactform").validate({
+			rules: {								
+				name: {
+					lettersonly:true,
+					required: true,
+										
+				},
+				Mobiles: {
+					required:true,
+					minlength:10,
+					phoneUS: true,
+					maxlength:10
+				},
+				
+				
+				email: {
+					required: true,
+					email: true
+				},
+				
+				
+				topic: {
+					required: "#newsletter:checked",
+					minlength: 2
+				},
+				agree: "required"
+			},
+			
+			messages: {
+				name: "Please enter your name",
+				
+				
+				
+				email: {
+					required: "Please enter your email",
+				},
+                city: {
+					required: "Please enter your city",
+				},
+				
+				message: {
+					required: "Please enter your message",
+				},
+				
+				Mobiles: {
+					required: "Please enter valid phone number",
+					minlength: "Ten digit mobile number"
+				},
+				
+			}
+		});
+		});
+	</script>        
 
   
     </body>
