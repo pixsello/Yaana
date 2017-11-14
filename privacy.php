@@ -131,13 +131,16 @@ Links</p>
                                     <h3>THIRD-PARTY SERVICES</h3>
 
                                 </div>
+                                
+<p><i class="fa fa-angle-double-right"></i> We use PAYTM  for processing our payments. Foe more Insights, You can also read terms and conditions of PAYTM  on <a href="https://paytm.com/about-us/our-policies/#tandc" target="_blank">https://paytm.com/about-us/our-policies/#tandc</a></p>
 
+<!--
                                 <p> <i class="fa fa-angle-double-right"></i> We use Razorpay for processing payments. We/Razorpay do not store your card data on their servers. The data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS) when processing payment. Your purchase transaction data is only used as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is not saved.</p>
                                 <p> <i class="fa fa-angle-double-right"></i> Our payment gateway adheres to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.</p>
                                 <p> <i class="fa fa-angle-double-right"></i> PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.</p>
                                 <p> <i class="fa fa-angle-double-right"></i> For more insight, you may also want to read terms and conditions of razorpay on <a href="https://razorpay.com"> https://razorpay.com</a></p>
                                 
-                                
+                                -->
                             </div>
                         </div>
                     </div><!-- End sections-->
