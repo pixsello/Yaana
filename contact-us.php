@@ -59,7 +59,7 @@
                 <div class="row"> 
                     <div class="col-sm-8 col-md-8"> 
                         <div class="contact-form"> 
-                            <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/email/contact-form.php" name="myform" novalidate="">
+                            <form id="contactform" method="POST" action="http://online.pixsello.in/yaana/contact-form.php" name="myform" novalidate="">
                                 <div class="row"> 
                                     <div class="col-md-6"> 
                                         <div class="form-group">

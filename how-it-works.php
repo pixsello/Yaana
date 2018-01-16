@@ -18,7 +18,9 @@
     <!--    back to top-->
     <link rel="stylesheet" href="back-to-top/css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="back-to-top/css/style.css"> <!-- Gem style -->
-        
+    
+     <link rel="stylesheet"  type="text/css" href="owl-carousel/owl.carousel.css" />
+    <link rel="stylesheet"  type="text/css" href="owl-carousel/owl.theme.css" />   
     </head>
     
     <body>
@@ -97,6 +99,49 @@
                         </div>
                     </div><!-- END COL -->
                 </div><!-- END ROW -->
+                
+    <div id="demo how-it-works">
+        <div class="container">
+            <div class="row"> 
+                    <div class="col-md-12"> 
+                        <div class="section-title section-h2"> 
+                            <h2>Navigation Help</h2>
+                        </div>
+                    </div><!-- END COL -->
+                </div><!-- END ROW -->
+          <div class="row">
+            <div class="span12">
+            <div class="col-md-10 center-block">
+              <div id="owl-demo" class="owl-carousel">
+                
+                <div class="item">
+                    <img src="images/steup1.png" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="images/steup2.png" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="images/steup3.png" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="images/steup4.png" class="img-responsive">
+                </div>
+                <div class="item">
+                    <img src="images/steup5.png" class="img-responsive">
+                </div>
+              </div>
+            </div><!-- end col-->
+                <div class="customNavigation">
+                <a class="btn prev"><i class="fa fa-angle-left"></i></a>
+                <a class="btn next"><i class="fa fa-angle-right"></i></a>
+                </div>
+                
+        </div>
+          </div>
+        </div>
+
+    </div>
+                
             </div><!-- END CONTAINER -->
             
         </section>
@@ -107,6 +152,44 @@
 	<?php include('footer.php'); ?>
 	<!-- footer -->  
      <!-- js --> 
+        <!--owl carosel-script-->
+        <script>
+$(document).ready(function() {
+ 
+  var owl = $("#owl-demo");
+ 
+  owl.owlCarousel({
+      items : 3, //10 items above 1000px browser width
+      itemsDesktop : [1000,3], //5 items between 1000px and 901px
+      itemsDesktopSmall : [900,3], // betweem 900px and 601px
+      itemsTablet: [600,2], //2 items between 600 and 0
+      itemsMobile : [480,1],
+                  navigation: true,
+
+              autoPlay:5000,
+  });
+ 
+  // Custom Navigation Events
+  $(".next").click(function(){
+    owl.trigger('owl.next');
+  })
+  $(".prev").click(function(){
+    owl.trigger('owl.prev');
+  })
+  $(".play").click(function(){
+    owl.trigger('owl.play',1000); //owl.play event accept autoPlay speed as second parameter
+  })
+  $(".stop").click(function(){
+    owl.trigger('owl.stop');
+  })
+ 
+});
+            </script>
+        
+        
+<script src="owl-carousel/owl.carousel.js"></script>
+        
+<!--owl carosel-script end-->
 
   
     </body>

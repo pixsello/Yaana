@@ -2987,3 +2987,75 @@ li.parsley-required, #contact_send_status {
 * 17.END BACK TOP BUTTON DESIGN
 * ----------------------------------------------------------------------------------------
 */
+.how-it-works .section-title{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#owl-demo .item{
+  border: 1px solid #111;
+  margin: 10px;
+  
+}
+
+.customNavigation{
+  text-align: center;
+}
+//use styles below to disable ugly selection
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.customNavigation .prev{
+    font-size: 30px;
+    border-radius: 0;
+    padding: 5px 20px;
+    background: #ff6600 ;
+    color: #fff;
+    position: relative;
+    top: -302px; 
+    float: left;
+    
+}
+.customNavigation .next{
+    border-radius: 0;
+    padding: 5px 20px;
+    background: #ff6600;
+    color: #fff;
+    position: relative;
+    top: -302px;
+    float: right;
+    font-size: 30px;
+    
+}
+.owl-buttons{
+    display: none !important;
+}
+.customNavigation{
+  text-align: center;
+}
+.how-it-works .center-block {
+    float: none!important;
+    display: block;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 991px) and (min-width: 320px) {
+    .customNavigation{
+        display:  none;
+    }
+     
+}
+@media screen and (min-width: 991px) {
+    .owl-pagination{
+        display: none;
+    }
+}
+.gallery .image{
+    margin: 15px 0px;
+}
+.gallery-b{
+    overflow-x: hidden;
+}

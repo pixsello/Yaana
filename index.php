@@ -37,7 +37,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="item active">
-                <img src="images/yaana-banner.jpg" class="img-responsive">
+                <img src="images/yaana-banner2.jpg" class="img-responsive">
                 <div class="carousel-caption">
                     <h1>bicycle for rent</h1>
                     <h3>  Journey towards change!!!!</h3>
@@ -46,7 +46,7 @@
                 </div>
             </div>
             <div class="item">
-                 <img src="images/yaana-banner2.jpg" class="img-responsive">
+                 <img src="images/yaana-banner.jpg" class="img-responsive">
                 <div class="carousel-caption">
                     <h1>bicycle for rent</h1>
                     <h3>  Journey towards change!!!!</h3>

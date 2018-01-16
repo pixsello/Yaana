@@ -1,5 +1,5 @@
 <?php
-        $mailto="pixsellowebblr@gmail.com"; 
+        $mailto="contact@yaana.net.in"; 
         $pcount=0;
         $gcount=0; 
         $subject = "Enquiry from Website";
